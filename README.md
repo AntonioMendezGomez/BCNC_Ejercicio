@@ -17,18 +17,14 @@ Here you can find a description of each API and how it works.
 | Manage_Info_Houses | Create, delete and update a user's homes.                                                        |
 | Delete_Users       | Delete users.                                                                                    |
 
-### Used Methods
-- Api_users: Ingresando la URL en el navegador, mediante el método GET se obtiene una respuesta JSON con todos los usuarios.
-usuarios = [
-    {"id": 1, "nombre": "Usuario1", "correo": "usuario1@example.com", "Fechanacimiento": "XXXX-XX-XX"},
-    {"id": 2, "nombre": "Usuario2", "correo": "usuario2@example.com", "Fechanacimiento": "XXXX-XX-XX"},
-    # Agrega más usuarios según sea necesario
-]'
-Create_User
-Delete_Users
-Manage_Info_Houses
-unique_user
-Update_Users
-Update_Users_All
-Users_Filters
-Users_Houses
+### How it works for users
+
+With the postman application users can access the api using credentials and get the data of the desired users.
+
+#### Contact
+
+For any questions about the development of the project or its developers, please contact us through the following email address: user@example.com
+
+##### Developers
+
+Antonio Méndez Gómez
